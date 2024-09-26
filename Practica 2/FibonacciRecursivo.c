@@ -7,7 +7,7 @@
  Profesor: Benjamín Luna Benoso
  Alumnos: López Domínguez Daniel Efraín y Vite Valois Omar Abdiel
  Práctica No.2
- Determinacion experimental de la complejidad temporal del algoritmo de Fibonacci iterativo
+ Determinacion experimental de la complejidad temporal del algoritmo de Fibonacci Recursivo
 
 */
 
